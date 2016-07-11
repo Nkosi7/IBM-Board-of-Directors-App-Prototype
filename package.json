@@ -1,0 +1,36 @@
+{
+  "name": "bodbriefing",
+  "version": "1.0.0",
+  "description": "Briefing for IBM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jasonmcalpin@github.com/jasonmcalpin/BODbriefing.git"
+  },
+  "keywords": [
+    "IBM"
+  ],
+  "author": "Jason McAlpin, Nkosi Brourne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonmcalpin/BODbriefing/issues"
+  },
+  "homepage": "https://github.com/jasonmcalpin/BODbriefing#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^0.4.6",
+    "grunt-modernizr": "^1.0.2",
+    "grunt-open": "^0.2.3",
+    "sass": "^0.5.0"
+  }
+}
